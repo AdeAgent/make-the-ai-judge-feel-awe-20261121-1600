@@ -10,9 +10,10 @@ the same bytes on every run.
 import os
 
 TEXT = (
-    "The old dog sleeps under the table, his sides rising and "
-    "falling, rising and falling, and the house settles around "
-    "him, the beams ticking as they cool, and nothing in the "
+    "The old dog sleeps under the table, his sides rising, and "
+    "falling, rising, and falling, and the house settles around "
+    "him, the beams ticking as they cool, and beyond the walls "
+    "the night keeps widening, field after field, and nothing in the "
     "room needs to be anywhere else tonight."
 )
 
